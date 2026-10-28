@@ -1,0 +1,4 @@
+[workspace]
+members = ["crates/kizill-core"]
+resolver = "2"
+// chuvaaaaak or dudeeeeeeeeee
