@@ -1,4 +1,6 @@
 [workspace]
-members = ["crates/kizill-core"]
+members = [
+    "crates/kizill-core",
+    "crates/kizill-net",
+]
 resolver = "2"
-// chuvaaaaak or dudeeeeeeeeee
